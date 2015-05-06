@@ -1,6 +1,6 @@
 # grunt-html2bem
 
-> Transform bem attributes to bem classes with [html2bem](https://www.npmjs.com/package/html2bem)
+> Transform bem attributes to bem classes with [html2bem](https://www.npmjs.com/package/html2bem) https://www.npmjs.com/package/html2bem
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
