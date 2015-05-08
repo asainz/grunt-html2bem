@@ -17,8 +17,8 @@ module.exports = function(grunt) {
   grunt.registerMultiTask('html2bem', 'Transform bem attributes to bem classes with html2bem', function() {
     // Merge task-specific and/or target-specific options with these defaults.
     var options = this.options({
-      punctuation: '.',
-      separator: ', '
+      punctuation: '',
+      separator: ''
     });
 
     // Iterate over all specified file groups.
